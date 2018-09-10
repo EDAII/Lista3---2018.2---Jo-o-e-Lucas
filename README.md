@@ -1,2 +1,2 @@
-# Lista3---2018.2---Jo-o-e-Lucas
+# Lista3_2018.2_Joao_e_Lucas
 sort
